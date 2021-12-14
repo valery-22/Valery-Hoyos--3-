@@ -1,5 +1,5 @@
 /* 
-Autora: Valery Hoyos (2021 - Colombia)
+Autora: Valery Hoyos - William Garcia Bedoya (2021 - Colombia)
 
 Resumen de este módulo:
 Este módulo se encarga de servir de interfaz para el tratamiento de los 
